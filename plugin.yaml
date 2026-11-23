@@ -1,0 +1,22 @@
+name: hermes-teacher
+version: 0.1.0
+requires_hermes: ">=0.23.2"
+description: A classroom with study notes, independent quiz grading, research, and diagrams
+kind: standalone
+provides_tools:
+  - teacher_quiz
+  - teacher_ask
+  - teacher_plan
+  - teacher_material
+  - teacher_role
+  - teacher_checkpoint
+provides_hooks:
+  - pre_llm_call
+  - pre_tool_call
+  - transform_llm_output
+  - post_llm_call
+  - on_session_end
+  - post_compaction
+  - post_api_request
+provides_middleware:
+  - llm_request

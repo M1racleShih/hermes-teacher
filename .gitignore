@@ -1,0 +1,54 @@
+# Python and local tooling
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+node_modules/
+.DS_Store
+
+# Machine configuration and credentials
+.env
+.env.*
+!.env.example
+config/local.json
+config/*.local.*
+auth.json
+credentials.json
+*.pem
+*.key
+
+# Disposable runtime and learning data
+.runtime/
+.local/
+artifacts/
+logs/
+sessions/
+vaults/
+notes/
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.db-wal
+*.db-shm
+
+# Runtime-only files if a Hermes project home is used
+.hermes/config.yaml
+.hermes/.env
+.hermes/memories/
+.hermes/sessions/
+.hermes/logs/
+.hermes/state.db*
+
+# Local agent workspaces and private development guides
+.agents/
+.codex/
+.aws/

@@ -1,0 +1,37 @@
+#!/usr/bin/env python3
+"""Run with the Hermes interpreter, including Hermes' managed installation layout."""
+
+import importlib.util
+import json
+import os
+from pathlib import Path
+import sys
+
+root = Path(__file__).resolve().parents[1]
+home = Path.home() / ".hermes"
+source = Path(os.environ.get("HERMES_TEACHER_SOURCE", home / "hermes-agent")).expanduser()
+python = os.environ.get("HERMES_TEACHER_PYTHON")
+if not python and importlib.util.find_spec("hermes_cli"):
+    python = sys.executable
+if not python:
+    candidates = [source / ".venv", source / "venv"]
+    for path in sorted(
+        (home / "installs").glob("*/facts.json"), key=lambda p: p.stat().st_mtime, reverse=True
+    ):
+        data = json.loads(path.read_text()).get("packages", {}).get("venv", {})
+        if data.get("environment"):
+            candidates.append(Path(data["environment"]))
+    python = next((str(p / "bin/python") for p in candidates if (p / "bin/python").is_file()), None)
+if not python:
+    chinese = os.getenv("HERMES_TEACHER_LANGUAGE", "").lower().startswith("zh")
+    sys.exit("请设置 HERMES_TEACHER_PYTHON，指向已安装 Hermes 及其依赖的 Python 解释器。" if chinese else
+             "Set HERMES_TEACHER_PYTHON to the Python interpreter that has Hermes and its dependencies installed.")
+paths = [str(root)]
+if source.is_dir():
+    paths.append(str(source))
+env = {**os.environ, "PYTHONPATH": os.pathsep.join(paths)}
+arguments = sys.argv[1:]
+profile = root.parent.parent
+if root.parent.name == "plugins" and (profile / "config.yaml").is_file():
+    arguments = ["--profile", str(profile), *arguments]
+os.execve(python, [python, "-m", "teacher", *arguments], env)

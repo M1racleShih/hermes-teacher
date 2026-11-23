@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="328" viewBox="0 0 820 328" role="img" aria-labelledby="title desc">
+  <title id="title">Two dice, thirty-six equally likely outcomes</title>
+  <desc id="desc">Rows and columns show each die from one to six. Six teal circles form the diagonal for seven. Five orange squares form the diagonal for eight.</desc>
+  <rect width="820" height="328" rx="16" fill="#fffaec"/>
+  <path d="M500 30v268" stroke="#c7beaa" stroke-dasharray="4 6"/>
+  <g font-family="Georgia, serif" text-anchor="middle">
+<rect x="140" y="19" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="153" cy="32" r="2" fill="#283d3d"/>
+  <rect x="76" y="65" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="89" cy="78" r="2" fill="#283d3d"/>
+  <rect x="192" y="19" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="199" cy="26" r="2" fill="#283d3d"/>
+  <circle cx="211" cy="38" r="2" fill="#283d3d"/>
+  <rect x="76" y="107" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="83" cy="114" r="2" fill="#283d3d"/>
+  <circle cx="95" cy="126" r="2" fill="#283d3d"/>
+  <rect x="244" y="19" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="251" cy="26" r="2" fill="#283d3d"/>
+  <circle cx="257" cy="32" r="2" fill="#283d3d"/>
+  <circle cx="263" cy="38" r="2" fill="#283d3d"/>
+  <rect x="76" y="149" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="83" cy="156" r="2" fill="#283d3d"/>
+  <circle cx="89" cy="162" r="2" fill="#283d3d"/>
+  <circle cx="95" cy="168" r="2" fill="#283d3d"/>
+  <rect x="296" y="19" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="303" cy="26" r="2" fill="#283d3d"/>
+  <circle cx="315" cy="26" r="2" fill="#283d3d"/>
+  <circle cx="303" cy="38" r="2" fill="#283d3d"/>
+  <circle cx="315" cy="38" r="2" fill="#283d3d"/>
+  <rect x="76" y="191" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="83" cy="198" r="2" fill="#283d3d"/>
+  <circle cx="95" cy="198" r="2" fill="#283d3d"/>
+  <circle cx="83" cy="210" r="2" fill="#283d3d"/>
+  <circle cx="95" cy="210" r="2" fill="#283d3d"/>
+  <rect x="348" y="19" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="355" cy="26" r="2" fill="#283d3d"/>
+  <circle cx="367" cy="26" r="2" fill="#283d3d"/>
+  <circle cx="361" cy="32" r="2" fill="#283d3d"/>
+  <circle cx="355" cy="38" r="2" fill="#283d3d"/>
+  <circle cx="367" cy="38" r="2" fill="#283d3d"/>
+  <rect x="76" y="233" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="83" cy="240" r="2" fill="#283d3d"/>
+  <circle cx="95" cy="240" r="2" fill="#283d3d"/>
+  <circle cx="89" cy="246" r="2" fill="#283d3d"/>
+  <circle cx="83" cy="252" r="2" fill="#283d3d"/>
+  <circle cx="95" cy="252" r="2" fill="#283d3d"/>
+  <rect x="400" y="19" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="407" cy="26" r="2" fill="#283d3d"/>
+  <circle cx="419" cy="26" r="2" fill="#283d3d"/>
+  <circle cx="407" cy="32" r="2" fill="#283d3d"/>
+  <circle cx="419" cy="32" r="2" fill="#283d3d"/>
+  <circle cx="407" cy="38" r="2" fill="#283d3d"/>
+  <circle cx="419" cy="38" r="2" fill="#283d3d"/>
+  <rect x="76" y="275" width="26" height="26" rx="5" fill="#fffdf6" stroke="#283d3d" stroke-width="1.5"/>
+  <circle cx="83" cy="282" r="2" fill="#283d3d"/>
+  <circle cx="95" cy="282" r="2" fill="#283d3d"/>
+  <circle cx="83" cy="288" r="2" fill="#283d3d"/>
+  <circle cx="95" cy="288" r="2" fill="#283d3d"/>
+  <circle cx="83" cy="294" r="2" fill="#283d3d"/>
+  <circle cx="95" cy="294" r="2" fill="#283d3d"/>
+  <text x="153" y="85" font-size="21" fill="#4d574e">2</text>
+  <text x="205" y="85" font-size="21" fill="#4d574e">3</text>
+  <text x="257" y="85" font-size="21" fill="#4d574e">4</text>
+  <text x="309" y="85" font-size="21" fill="#4d574e">5</text>
+  <text x="361" y="85" font-size="21" fill="#4d574e">6</text>
+  <circle cx="413" cy="78" r="16" fill="#176b66"/>
+  <text x="413" y="85" font-size="21" fill="#fff">7</text>
+  <text x="153" y="127" font-size="21" fill="#4d574e">3</text>
+  <text x="205" y="127" font-size="21" fill="#4d574e">4</text>
+  <text x="257" y="127" font-size="21" fill="#4d574e">5</text>
+  <text x="309" y="127" font-size="21" fill="#4d574e">6</text>
+  <circle cx="361" cy="120" r="16" fill="#176b66"/>
+  <text x="361" y="127" font-size="21" fill="#fff">7</text>
+  <rect x="397" y="104" width="32" height="32" rx="4" fill="#aa471f"/>
+  <text x="413" y="127" font-size="21" fill="#fff">8</text>
+  <text x="153" y="169" font-size="21" fill="#4d574e">4</text>
+  <text x="205" y="169" font-size="21" fill="#4d574e">5</text>
+  <text x="257" y="169" font-size="21" fill="#4d574e">6</text>
+  <circle cx="309" cy="162" r="16" fill="#176b66"/>
+  <text x="309" y="169" font-size="21" fill="#fff">7</text>
+  <rect x="345" y="146" width="32" height="32" rx="4" fill="#aa471f"/>
+  <text x="361" y="169" font-size="21" fill="#fff">8</text>
+  <text x="413" y="169" font-size="21" fill="#4d574e">9</text>
+  <text x="153" y="211" font-size="21" fill="#4d574e">5</text>
+  <text x="205" y="211" font-size="21" fill="#4d574e">6</text>
+  <circle cx="257" cy="204" r="16" fill="#176b66"/>
+  <text x="257" y="211" font-size="21" fill="#fff">7</text>
+  <rect x="293" y="188" width="32" height="32" rx="4" fill="#aa471f"/>
+  <text x="309" y="211" font-size="21" fill="#fff">8</text>
+  <text x="361" y="211" font-size="21" fill="#4d574e">9</text>
+  <text x="413" y="211" font-size="21" fill="#4d574e">10</text>
+  <text x="153" y="253" font-size="21" fill="#4d574e">6</text>
+  <circle cx="205" cy="246" r="16" fill="#176b66"/>
+  <text x="205" y="253" font-size="21" fill="#fff">7</text>
+  <rect x="241" y="230" width="32" height="32" rx="4" fill="#aa471f"/>
+  <text x="257" y="253" font-size="21" fill="#fff">8</text>
+  <text x="309" y="253" font-size="21" fill="#4d574e">9</text>
+  <text x="361" y="253" font-size="21" fill="#4d574e">10</text>
+  <text x="413" y="253" font-size="21" fill="#4d574e">11</text>
+  <circle cx="153" cy="288" r="16" fill="#176b66"/>
+  <text x="153" y="295" font-size="21" fill="#fff">7</text>
+  <rect x="189" y="272" width="32" height="32" rx="4" fill="#aa471f"/>
+  <text x="205" y="295" font-size="21" fill="#fff">8</text>
+  <text x="257" y="295" font-size="21" fill="#4d574e">9</text>
+  <text x="309" y="295" font-size="21" fill="#4d574e">10</text>
+  <text x="361" y="295" font-size="21" fill="#4d574e">11</text>
+  <text x="413" y="295" font-size="21" fill="#4d574e">12</text>    <circle cx="554" cy="112" r="22" fill="#176b66"/>
+    <text x="554" y="121" font-size="28" fill="#fff">7</text>
+    <rect x="532" y="197" width="44" height="44" rx="6" fill="#aa471f"/>
+    <text x="554" y="229" font-size="28" fill="#fff">8</text>
+    <g font-family="Georgia, serif" font-size="34" fill="#293b39" text-anchor="start">
+      <text x="616" y="125">6 / 36</text>
+  <text x="616" y="230">5 / 36</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="880" height="326" viewBox="0 0 880 326" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">Two questions locate a starting point</title><desc id="desc">Asked which people count in the denominator after a positive test, the learner is unsure. When the group is 30 students, they pick 30. Nine of the 30 illustrated students wear glasses.</desc>
+<style>.sans {font-family: Arial, "DejaVu Sans", "Noto Sans CJK SC", sans-serif} .serif {font-family: Georgia, "Noto Serif CJK SC", "Noto Sans CJK SC", serif}</style>
+<defs>
+  <pattern id="dots" patternUnits="userSpaceOnUse" width="19" height="19"><circle cx="1.5" cy="1.5" r=".75" fill="#837c64" opacity=".17"/></pattern>
+  <g id="head" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M-9 9 C-8 6 -5 5 -3 5 M3 5 Q7 5 9 9" fill="none"/><path d="M-6 -3 C-7 -11 5 -12 6 -4 C8 5 -5 9 -6 -3 Z" fill="#fffaf0"/><path d="M-6 -4 Q-3 -5 -2 -8 Q1 -5 5 -6" fill="none"/></g>
+  <g id="student" color="#526775"><use xlink:href="#head"/></g>
+  <g id="student-glasses" color="#9f432d"><use xlink:href="#head"/><path d="M-7 -2 l1 -1 5 0 .5 3 -4 1 -1 -3 m6 -1 2 -0.5 m0 0 5 -.4 -.2 3 -4 .6 z" fill="#f6c4a4" stroke="#94381f" stroke-linecap="round" stroke-width="1.35"/></g>
+</defs>
+<rect width="880" height="326" rx="14" fill="#fbf7e9"/><rect width="880" height="326" rx="14" fill="url(#dots)"/>
+<path d="M438 27 Q435 107 438 166 T437 302" fill="none" stroke="#bac5be" stroke-width="1.6" stroke-dasharray="4 6"/>
+<path d="M35 70 Q140 66 225 68 M473 69 Q568 71 686 67" stroke="#d29c66" opacity=".6" fill="none" stroke-width="2.4" stroke-linecap="round"/>
+<g transform="translate(67 164) rotate(-9)">
+          <path d="M-19 0 Q-20 -4 -14 -4 L13 -4 Q17 -5 18 1 L18 56 Q18 61 13 61 L-14 60 Q-19 60 -19 55 Z" fill="#fffdf5" stroke="#496575" stroke-width="2.4"/>
+          <path d="M-12 7 11 7 12 25 -11 26 Z" fill="#f6dcc9"/>
+          <g transform="translate(0 16)" fill="none" stroke="#aa472d" stroke-linecap="round" stroke-width="3.2"><path d="M-6 0h12 M0 -6v12"/></g>
+          <path d="M-9 39 Q-1 38 9 39 M-6 45 6 44" fill="none" stroke="#b8c0b9" stroke-linecap="round" stroke-width="1.7"/>
+        </g><g transform="translate(137 165) rotate(5)">
+          <path d="M-19 0 Q-20 -4 -14 -4 L13 -4 Q17 -5 18 1 L18 56 Q18 61 13 61 L-14 60 Q-19 60 -19 55 Z" fill="#fffdf5" stroke="#496575" stroke-width="2.4"/>
+          <path d="M-12 7 11 7 12 25 -11 26 Z" fill="#e4ebe8"/>
+          <g transform="translate(0 16)" fill="none" stroke="#416374" stroke-linecap="round" stroke-width="3.2"><path d="M-6 0h12"/></g>
+          <path d="M-9 39 Q-1 38 9 39 M-6 45 6 44" fill="none" stroke="#b8c0b9" stroke-linecap="round" stroke-width="1.7"/>
+        </g><g transform="translate(207 160) rotate(-4)">
+          <path d="M-19 0 Q-20 -4 -14 -4 L13 -4 Q17 -5 18 1 L18 56 Q18 61 13 61 L-14 60 Q-19 60 -19 55 Z" fill="#fffdf5" stroke="#496575" stroke-width="2.4"/>
+          <path d="M-12 7 11 7 12 25 -11 26 Z" fill="#f6dcc9"/>
+          <g transform="translate(0 16)" fill="none" stroke="#aa472d" stroke-linecap="round" stroke-width="3.2"><path d="M-6 0h12 M0 -6v12"/></g>
+          <path d="M-9 39 Q-1 38 9 39 M-6 45 6 44" fill="none" stroke="#b8c0b9" stroke-linecap="round" stroke-width="1.7"/>
+        </g><g transform="translate(275 168) rotate(8)">
+          <path d="M-19 0 Q-20 -4 -14 -4 L13 -4 Q17 -5 18 1 L18 56 Q18 61 13 61 L-14 60 Q-19 60 -19 55 Z" fill="#fffdf5" stroke="#496575" stroke-width="2.4"/>
+          <path d="M-12 7 11 7 12 25 -11 26 Z" fill="#e4ebe8"/>
+          <g transform="translate(0 16)" fill="none" stroke="#416374" stroke-linecap="round" stroke-width="3.2"><path d="M-6 0h12"/></g>
+          <path d="M-9 39 Q-1 38 9 39 M-6 45 6 44" fill="none" stroke="#b8c0b9" stroke-linecap="round" stroke-width="1.7"/>
+        </g><g transform="translate(340 161) rotate(-3)">
+          <path d="M-19 0 Q-20 -4 -14 -4 L13 -4 Q17 -5 18 1 L18 56 Q18 61 13 61 L-14 60 Q-19 60 -19 55 Z" fill="#fffdf5" stroke="#496575" stroke-width="2.4"/>
+          <path d="M-12 7 11 7 12 25 -11 26 Z" fill="#f6dcc9"/>
+          <g transform="translate(0 16)" fill="none" stroke="#aa472d" stroke-linecap="round" stroke-width="3.2"><path d="M-6 0h12 M0 -6v12"/></g>
+          <path d="M-9 39 Q-1 38 9 39 M-6 45 6 44" fill="none" stroke="#b8c0b9" stroke-linecap="round" stroke-width="1.7"/>
+        </g><use xlink:href="#student-glasses" x="481" y="159.9" transform="rotate(-4 481 159.9)"/><use xlink:href="#student" x="515" y="161.0" transform="rotate(2 515 161.0)"/><use xlink:href="#student" x="549" y="162.1" transform="rotate(0 549 162.1)"/><use xlink:href="#student-glasses" x="583" y="159.9" transform="rotate(3 583 159.9)"/><use xlink:href="#student" x="617" y="161.0" transform="rotate(-2 617 161.0)"/><use xlink:href="#student-glasses" x="651" y="162.1" transform="rotate(-4 651 162.1)"/><use xlink:href="#student" x="685" y="159.9" transform="rotate(2 685 159.9)"/><use xlink:href="#student" x="719" y="161.0" transform="rotate(0 719 161.0)"/><use xlink:href="#student" x="753" y="162.1" transform="rotate(3 753 162.1)"/><use xlink:href="#student-glasses" x="787" y="159.9" transform="rotate(-2 787 159.9)"/><use xlink:href="#student" x="481" y="188.9" transform="rotate(-4 481 188.9)"/><use xlink:href="#student" x="515" y="190.0" transform="rotate(2 515 190.0)"/><use xlink:href="#student-glasses" x="549" y="191.1" transform="rotate(0 549 191.1)"/><use xlink:href="#student" x="583" y="188.9" transform="rotate(3 583 188.9)"/><use xlink:href="#student" x="617" y="190.0" transform="rotate(-2 617 190.0)"/><use xlink:href="#student" x="651" y="191.1" transform="rotate(-4 651 191.1)"/><use xlink:href="#student-glasses" x="685" y="188.9" transform="rotate(2 685 188.9)"/><use xlink:href="#student" x="719" y="190.0" transform="rotate(0 719 190.0)"/><use xlink:href="#student" x="753" y="191.1" transform="rotate(3 753 191.1)"/><use xlink:href="#student" x="787" y="188.9" transform="rotate(-2 787 188.9)"/><use xlink:href="#student-glasses" x="481" y="217.9" transform="rotate(-4 481 217.9)"/><use xlink:href="#student" x="515" y="219.0" transform="rotate(2 515 219.0)"/><use xlink:href="#student" x="549" y="220.1" transform="rotate(0 549 220.1)"/><use xlink:href="#student" x="583" y="217.9" transform="rotate(3 583 217.9)"/><use xlink:href="#student-glasses" x="617" y="219.0" transform="rotate(-2 617 219.0)"/><use xlink:href="#student" x="651" y="220.1" transform="rotate(-4 651 220.1)"/><use xlink:href="#student" x="685" y="217.9" transform="rotate(2 685 217.9)"/><use xlink:href="#student" x="719" y="219.0" transform="rotate(0 719 219.0)"/><use xlink:href="#student-glasses" x="753" y="220.1" transform="rotate(3 753 220.1)"/><use xlink:href="#student" x="787" y="217.9" transform="rotate(-2 787 217.9)"/>
+<path d="M34 268 l0 32 M473 269 l0 30" stroke="#ae5137" stroke-width="4" stroke-linecap="round"/>
+<text x="34" y="57" class="serif" font-size="30" font-weight="700" fill="#193b50">Which group counts?</text><text x="472" y="57" class="serif" font-size="30" font-weight="700" fill="#193b50">Now the group is given</text><text x="34" y="102" class="sans" font-size="21" font-weight="400" fill="#193b50">To find the share of positive tests</text><text x="34" y="131" class="sans" font-size="21" font-weight="400" fill="#193b50">that are true positives, divide by …?</text><text x="472" y="102" class="sans" font-size="21" font-weight="400" fill="#193b50">9 of these 30 students wear glasses.</text><text x="472" y="131" class="sans" font-size="21" font-weight="400" fill="#193b50">Which number is the denominator?</text><text x="55" y="295" class="sans" font-size="26" font-weight="650" fill="#193b50">“I don’t know.”</text><text x="493" y="295" class="sans" font-size="26" font-weight="650" fill="#193b50">“30.”</text>
+</svg>

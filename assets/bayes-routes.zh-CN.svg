@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:lang="zh-CN" width="690" height="655" viewBox="0 0 690 655" role="img" aria-labelledby="title desc">
+<title id="title">同一个目标，不同的学习路线</title>
+<desc id="desc">两次一对一贝叶斯课程有相同目标。学习者 A 知道 30 人中 9 人戴眼镜时的比例分母是 30，但不知道阳性者中患病比例的分母。A 的第二版计划以圈出条件人群为第一个教学节点，它和把比率写成人数两个前置节点共同指向目标。学习者 B 知道假阳性率以未患病者为分母，能算出 200 人的 5% 是 10 人，但不知道怎样把 990 人的 5% 换算成人数。B 的第二版计划先把给定比率写成 1000 人频数表，再连续练习把 990 拆成 1000 减 10、把总人数放大到 10000 人两种方法计算 990 的 5%；图中的练习框概括这两个节点。接着合并真阳性与假阳性，最后读出阳性者中患病比例并区分三个条件概率。图中节点是计划，不表示已经全部教完。</desc>
+<defs>
+  <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#173f5b" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></marker>
+  <marker id="arrow-red" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#c44734" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></marker>
+</defs>
+<g font-family="Segoe UI, Noto Sans CJK SC, Noto Sans, Arial, sans-serif">
+<path d="M0 0 H690 V655 H0 Z" fill="#fcf8eb"/>
+<g fill="none" stroke="#173f5b" opacity=".07" stroke-width="1"><path d="M0 67 H690 M0 220 H690 M0 505 H690 M0 640 H690"/></g>
+<path d="M18 0 L18 655" fill="none" stroke="#c44734" opacity=".24" stroke-width="1.5"/>
+<g id="heading">
+<text x="345" y="45" font-size="30" font-weight="700" fill="#173f5b" text-anchor="middle" >同一个目标，不同的学习路线</text>
+<path d="M240 54 Q346 57 450 54" stroke="#c44734" stroke-width="2.1" fill="none" stroke-linecap="round"/>
+</g>
+<path d="M335 85 L335 493" fill="none" stroke="#173f5b" stroke-width="1.3" stroke-dasharray="5 8" opacity=".25"/>
+<g id="learner-a">
+<text x="46" y="102" font-size="25" font-weight="700" fill="#173f5b" text-anchor="start" >学习者 A</text>
+<text x="190" y="100" font-size="14" font-weight="700" fill="#c44734" text-anchor="start" >计划第 2 版</text>
+<path d="M46 109 Q105 111 164 109" stroke="#c44734" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+<text x="46" y="141" font-size="21" font-weight="400" fill="#173f5b" text-anchor="start" >知道 30 人中 9 人戴眼镜</text>
+<text x="46" y="165" font-size="21" font-weight="400" fill="#173f5b" text-anchor="start" >的比例分母是 30，却不知道</text>
+<text x="46" y="189" font-size="21" font-weight="400" fill="#173f5b" text-anchor="start" >阳性者中患病比例的分母。</text>
+<path d="M52 236 Q114 232 167 235 L290 234 Q297 235 296 242 L298 302 Q297 308 291 308 L52 310 Q45 309 47 302 L46 243 Q45 237 52 236 Z" fill="#fffdf5" stroke="#173f5b" stroke-width="2.2" stroke-linejoin="round"/>
+<text x="62" y="254" font-size="15" font-weight="700" fill="#c44734" text-anchor="start" letter-spacing="0.4">第一步</text>
+<text x="62" y="278" font-size="21" font-weight="650" fill="#173f5b" text-anchor="start" >圈出</text>
+<text x="62" y="302" font-size="21" font-weight="650" fill="#173f5b" text-anchor="start" >条件人群</text>
+<path d="M52 363 Q114 359 167 362 L290 361 Q297 362 296 369 L298 412 Q297 418 291 418 L52 420 Q45 419 47 412 L46 370 Q45 364 52 363 Z" fill="#fffdf5" stroke="#173f5b" stroke-width="2.2" stroke-linejoin="round"/>
+<text x="62" y="385" font-size="21" font-weight="650" fill="#173f5b" text-anchor="start" >把比率</text>
+<text x="62" y="410" font-size="21" font-weight="650" fill="#173f5b" text-anchor="start" >写成人数</text>
+<g fill="none" stroke="#173f5b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M298 272 C311 272 315 281 315 294 L315 480 Q315 498 328 504 L345 511"/>
+ <path d="M298 390 L315 390"/>
+</g>
+<circle cx="315" cy="390" r="3.5" fill="#c44734"/>
+</g>
+<g id="learner-b">
+<text x="355" y="102" font-size="25" font-weight="700" fill="#173f5b" text-anchor="start" >学习者 B</text>
+<text x="500" y="100" font-size="14" font-weight="700" fill="#c44734" text-anchor="start" >计划第 2 版</text>
+<path d="M355 109 Q414 111 473 109" stroke="#c44734" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+<text x="355" y="141" font-size="21" font-weight="400" fill="#173f5b" text-anchor="start" >知道假阳性率的分母是</text>
+<text x="355" y="165" font-size="21" font-weight="400" fill="#173f5b" text-anchor="start" >未患病者。200 人的 5% → 10，</text>
+<text x="355" y="189" font-size="21" font-weight="400" fill="#173f5b" text-anchor="start" >但 990 人的 5% 还不确定。</text>
+<path d="M361 236 Q423 232 476 235 L599 234 Q606 235 605 242 L607 302 Q606 308 600 308 L361 310 Q354 309 356 302 L355 243 Q354 237 361 236 Z" fill="#fffdf5" stroke="#173f5b" stroke-width="2.2" stroke-linejoin="round"/>
+<text x="371" y="254" font-size="15" font-weight="700" fill="#c44734" text-anchor="start" letter-spacing="0.4">第一步</text>
+<text x="371" y="278" font-size="21" font-weight="650" fill="#173f5b" text-anchor="start" >建立 1,000 人</text>
+<text x="371" y="302" font-size="21" font-weight="650" fill="#173f5b" text-anchor="start" >频数表</text>
+<path d="M361 332 Q423 328 476 331 L599 330 Q606 331 605 338 L607 398 Q606 404 600 404 L361 406 Q354 405 356 398 L355 339 Q354 333 361 332 Z" fill="#fffdf5" stroke="#173f5b" stroke-width="2.2" stroke-linejoin="round"/>
+<text x="371" y="350" font-size="15" font-weight="700" fill="#c44734" text-anchor="start" letter-spacing="0.4">练习重点</text>
+<text x="371" y="374" font-size="21" font-weight="650" fill="#173f5b" text-anchor="start" >算 990 人的 5%</text>
+<text x="371" y="398" font-size="21" font-weight="650" fill="#173f5b" text-anchor="start" >990 = 1,000 − 10</text>
+<path d="M361 428 Q423 424 476 427 L599 426 Q606 427 605 434 L607 477 Q606 483 600 483 L361 485 Q354 484 356 477 L355 435 Q354 429 361 428 Z" fill="#fffdf5" stroke="#173f5b" stroke-width="2.2" stroke-linejoin="round"/>
+<text x="371" y="450" font-size="21" font-weight="650" fill="#173f5b" text-anchor="start" >合并真阳性</text>
+<text x="371" y="475" font-size="21" font-weight="650" fill="#173f5b" text-anchor="start" >和假阳性</text>
+<g fill="none" stroke="#173f5b" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M481 311 L481 325" marker-end="url(#arrow)"/>
+ <path d="M481 407 L481 421" marker-end="url(#arrow)"/>
+ <path d="M481 487 C481 507 393 505 345 511"/>
+</g>
+</g>
+<g id="shared-goal" fill="none" stroke-linecap="round" stroke-linejoin="round">
+ <path d="M345 511 L345 528" stroke="#c44734" stroke-width="2.4" marker-end="url(#arrow-red)"/>
+ <path d="M77 536 Q77 528 87 529 L602 531 Q613 531 612 542 L610 629 Q610 639 600 638 L87 640 Q77 640 78 629 Z" fill="#fbefdf" stroke="#173f5b" stroke-width="2.2"/>
+</g>
+<text x="345" y="553" font-size="16" font-weight="700" fill="#c44734" text-anchor="middle" letter-spacing="0.7">共同目标</text>
+<text x="345" y="585" font-size="23" font-weight="700" fill="#173f5b" text-anchor="middle" >检测结果为阳性的人中，</text>
+<text x="345" y="616" font-size="23" font-weight="700" fill="#173f5b" text-anchor="middle" >真正患病的比例是多少？</text>
+<!-- Original pen-drawn magnifier, a question rather than an invented statistic. -->
+<g transform="translate(111 575) rotate(-12)" fill="none" stroke="#c44734" stroke-width="2.3" stroke-linecap="round"><circle cx="0" cy="0" r="12"/><path d="M8 9 L20 21"/></g>
+</g>
+</svg>
